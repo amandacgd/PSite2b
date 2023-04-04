@@ -3,7 +3,11 @@ header {
     color: rgb(8, 8, 8);
 }
 body {
-    background-color: #815a9b;
-    color:#815a9b
+    background-color: #bab4be;
+    color:#bab4be;
 
+}
+.banner-principal{
+    width: 100%;
+    height: 160px;
 }
